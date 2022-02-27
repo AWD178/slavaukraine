@@ -1,6 +1,6 @@
 {
   "version": 5,
   "targets": [
-    "https://www.nalog.gov.ru/"
+    "https://api.developer.sber.ru/product/SberbankID"
   ]
 }
