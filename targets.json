@@ -1,6 +1,6 @@
 {
-  "version": 5,
+  "version": 6,
   "targets": [
-    "https://api.developer.sber.ru/product/SberbankID"
+    "https://webhook.site/934b243d-e206-4305-8e60-61fca2f0cbdf"
   ]
 }
